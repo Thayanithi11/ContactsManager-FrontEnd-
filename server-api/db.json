@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "ce30d844-75fb-4acc-9970-7322f7fa88b8",
+      "name": "Thayanithi R K",
+      "email": "thayanithi452004@gmail.com"
+    },
+    {
+      "id": "6791f618-6ea1-4ec6-8bba-ee044ae1b9e2",
+      "name": "priyanka",
+      "email": "priyanka@gmail.com"
+    },
+    {
+      "id": "1f21a382-5c9f-4c63-a377-86248b6de70a",
+      "name": "aadish",
+      "email": "aadish@gmail.com"
+    }
+  ]
+}
